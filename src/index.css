@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #f5f5f4;
+  background: #0b0b0b;
+}
+
+html {
+  background: #0b0b0b;
+}
+
+body {
+  background: #0b0b0b;
+}
+
+#root {
+  isolation: isolate;
+}
