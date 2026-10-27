@@ -8,7 +8,7 @@ export const collections = [
       'A first expression of the FIOX identity: clean silhouettes, washed neutrals, and high-contrast layering built for everyday movement.',
     season: 'Drop 01',
     coverImage:
-      'https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1200&q=80',
+      'fiox.png',
     accent: '#b7a58a',
   },
   {
