@@ -10,7 +10,7 @@ import { ArrowRight } from 'lucide-react'
 
 const clamp = (v, min, max) => Math.min(max, Math.max(min, v))
 
-const PORTRAIT = '/fiox-about.jfif'
+const PORTRAIT = '/fiox.png'
 
 const MARQUEE = ['INTENTION OVER NOISE', 'Wear your identity', 'QUIET CONFIDENCE', 'Made to be lived in']
 
@@ -413,7 +413,7 @@ export default function AboutPage() {
             <div className="ab-photo" data-ab-tilt="" data-max="12">
               <div className="ab-frame" />
               <div className="ab-pimg">
-                <img src={PORTRAIT} alt="Editorial portrait" />
+                <img src={PORTRAIT} alt="FIOX brand logo" />
                 <div className="ab-glare" />
               </div>
               <div className="ab-tag">Est. 2026</div>
