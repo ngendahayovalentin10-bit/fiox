@@ -10,7 +10,7 @@ import { ArrowRight } from 'lucide-react'
 
 const clamp = (v, min, max) => Math.min(max, Math.max(min, v))
 
-const PORTRAIT = '/fiox.png'
+const PORTRAIT = '/fiox-about.jfif'
 
 const MARQUEE = ['INTENTION OVER NOISE', 'Wear your identity', 'QUIET CONFIDENCE', 'Made to be lived in']
 
