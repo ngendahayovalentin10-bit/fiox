@@ -7,8 +7,7 @@ export const collections = [
     description:
       'A first expression of the FIOX identity: clean silhouettes, washed neutrals, and high-contrast layering built for everyday movement.',
     season: 'Drop 01',
-    coverImage:
-      'fiox.png',
+    coverImage: '/1.jpeg',
     accent: '#b7a58a',
   },
   {
@@ -18,8 +17,7 @@ export const collections = [
     description:
       'Timeless staples created with an intentional, easy-to-style approach. Functional, versatile, and refined for everyday wear.',
     season: 'Core',
-    coverImage:
-      'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1200&q=80',
+    coverImage: '/8.jpeg',
     accent: '#8a7f71',
   },
   {
@@ -29,8 +27,7 @@ export const collections = [
     description:
       'A fresh take on layering and statement dressing, balancing structure and ease across the warmer-to-cool transition.',
     season: 'New Season',
-    coverImage:
-      'https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=80',
+    coverImage: '/6.jpeg',
     accent: '#d7c8b7',
   },
   {
@@ -39,7 +36,7 @@ export const collections = [
     name: 'HOODIES',
     description: 'Easy layers with a relaxed shape, built for comfort and everyday expression.',
     season: 'Everyday layers',
-    coverImage: '/_Cozy in Style_ Must-Have Hoodies by Styledrop_.jfif',
+    coverImage: '/8.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -48,7 +45,7 @@ export const collections = [
     name: 'T-SHIRTS',
     description: 'From clean everyday staples to graphic pieces that bring personality to the fit.',
     season: 'Everyday essentials',
-    coverImage: '/Oversized Black T-Shirt for Men _ Korean Streetwear Tee _ Trendy Casual Outfit Ideas 2026.jfif',
+    coverImage: '/2.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -75,7 +72,7 @@ export const collections = [
     name: 'STREETWEAR',
     description: 'Oversized graphics, relaxed layers, and confident street-ready pieces.',
     season: 'Street edit',
-    coverImage: '/« Troublemakers » Tracksuit by @divinbydivin….jfif',
+    coverImage: '/1.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -84,7 +81,7 @@ export const collections = [
     name: 'CASUAL',
     description: 'Versatile everyday clothing with relaxed fits and easy-to-wear details.',
     season: 'Daily uniform',
-    coverImage: '/827536500297167380.jfif',
+    coverImage: '/9.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -93,7 +90,7 @@ export const collections = [
     name: 'SPORTSWEAR',
     description: 'Sport-influenced pieces that bring movement and energy to casual dressing.',
     season: 'Active edit',
-    coverImage: '/« Troublemakers » Tracksuit by @divinbydivin….jfif',
+    coverImage: '/13.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -120,7 +117,7 @@ export const collections = [
     name: 'PANTS',
     description: 'Relaxed trousers and easy silhouettes designed to anchor everyday looks.',
     season: 'Bottoms',
-    coverImage: '/Comment Link 🖇️_.jfif',
+    coverImage: '/5.jpeg',
     accent: '#8e8e8e',
   },
   {
@@ -129,7 +126,7 @@ export const collections = [
     name: 'JACKETS',
     description: 'Statement outerwear, from leather-look layers to varsity-inspired shapes.',
     season: 'Outerwear',
-    coverImage: '/Korte zwarte leren jas voor heren, herfst winter, vakantie, Vaderdagcadeaus.jfif',
+    coverImage: '/5.jpeg',
     accent: '#8e8e8e',
   },
   {
