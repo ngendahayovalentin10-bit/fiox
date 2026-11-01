@@ -33,7 +33,7 @@ export default function Footer() {
             <p className="mb-4 text-xs uppercase tracking-[0.3em] text-stone-500">Social</p>
             <ul className="space-y-3 text-sm text-stone-300">
               <li><a href={siteConfig.socialLinks.instagram || '#'} className="hover:text-white">Instagram</a></li>
-              <li><a href={siteConfig.socialLinks.tiktok || '#'} className="hover:text-white">TikTok</a></li>
+              <li><a href={siteConfig.socialLinks.tiktok || '#'} target="_blank" rel="noopener noreferrer" className="hover:text-white">TikTok</a></li>
               <li><a href={siteConfig.socialLinks.facebook || '#'} className="hover:text-white">Facebook</a></li>
             </ul>
           </div>
